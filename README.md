@@ -2,6 +2,7 @@
 
 Age of Arrows was my first Big Project. This is a 2-Player Game made entirely in C Programming Language.  
 This Program utilizes all the basic knowledge of `arrays`, `structures`, `pointers`, `functions`, `file handling`, etc.  
+There is heavy utilization of the native `graphics library` as well.  
   
 This is a game of Archery, where 2 Players control their individual Bows and shoot one another. The game ends when the Players are out of Arrows to shoot.  
 ![Game Screen](https://github.com/LordZed400/Age-of-Arrows/blob/master/Screenshots/Screenshot-13.png "Age of Arrows")
@@ -23,5 +24,8 @@ This game has fully functional
 - Highscore System  
 ![Highscore Screen](https://github.com/LordZed400/Age-of-Arrows/blob/master/Screenshots/Screenshot-7.png "Title Screen")
   
+## Working
+The `GAMEAOA.CPP` is the main code file where all the necessary Library files are included, along with custom header files.  
+The custom header `DRAW.H` handles every process related to drawing graphics on the screen, while `FLOW.H` controls the flow of the program an does the calculation part.  
 
 
