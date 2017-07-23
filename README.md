@@ -28,4 +28,22 @@ This game has fully functional
 The `GAMEAOA.CPP` is the main code file where all the necessary Library files are included, along with custom header files.  
 The custom header `DRAW.H` handles every process related to drawing graphics on the screen, while `FLOW.H` controls the flow of the program an does the calculation part.  
 
+The `DRAW.H` library has following functions:  
+- `make()` : Creates the Player
+- `rearrow()` : Creates the counter for available arrows
+- `arrow()` : Creates the arrows that the players shoot
+- `theGame()` : Creates the Boundary for the Game
+  
+The `FLOW.H` library has following functions:  
+- `title()` : Creates the Title Screen
+- `loading()` : Creates the Loading Screen
+- `selection()` : Performs operation according to the selection from the Game Menu
+- `menu()` : Creates the Game Menu
+- `choosePlayer()` : Creates the Character Selection Screen
+- `howtoControl()` : Displays the controls
+- `credits()` : Displays the name of creators
+- `writeFile()` : Writes scores in `scores.dat`
+- `readFile()` : Reads and displays Highscores from `scores.dat`
+- `decide()` : Decide whether P1 or P2 is the winner according the their points
+- `points()` : Keeps the record of points of each Player
 
