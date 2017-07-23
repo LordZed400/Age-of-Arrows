@@ -8,19 +8,19 @@ This is a game of Archery, where 2 Players control their individual Bows and sho
   
 
 This game has fully functional  
-- Title Screen
+- Title Screen  
 ![Title Screen](https://github.com/LordZed400/Age-of-Arrows/blob/master/Screenshots/Screenshot-2.png "Title")
   
-- Loading Screen
+- Loading Screen  
 ![Loading Screen](https://github.com/LordZed400/Age-of-Arrows/blob/master/Screenshots/Screenshot-3.png "Loading")
   
-- Menu System
+- Menu System  
 ![Menu Screen](https://github.com/LordZed400/Age-of-Arrows/blob/master/Screenshots/Screenshot-5.png "Menu")
   
-- Character Selection
+- Character Selection  
 ![Character Selection Screen](https://github.com/LordZed400/Age-of-Arrows/blob/master/Screenshots/Screenshot-11.png "Character Selection")
   
-- Highscore System
+- Highscore System  
 ![Highscore Screen](https://github.com/LordZed400/Age-of-Arrows/blob/master/Screenshots/Screenshot-7.png "Title Screen")
   
 
